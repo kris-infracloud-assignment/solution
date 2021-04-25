@@ -1,0 +1,4 @@
+Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
+2021/04/25 12:12:25 listening on ****
+2021/04/25 12:12:30 wrote 653 bytes for /
+2021/04/25 14:06:26 wrote 170 bytes for /raw
