@@ -111,4 +111,4 @@
 ## 1.6.3 Create container with the new image
  docker run --name csvserver_v6 -d -p 9393:9300 localhost/csvserver_v6
 
-## 1.6.4 From the browser check that the application is accessible at 9393 port, and welcome note should have ornage background
+## 1.6.4 From the browser check that the application is accessible at 9393 port, and welcome note should have orange background
