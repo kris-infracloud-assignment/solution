@@ -1,1 +1,0 @@
-docker run --name csvserver_v6 -d -p 9393:9300 localhost/csvserver_v6

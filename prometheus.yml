@@ -1,6 +1,0 @@
-scrape_configs:
-- job_name: csvserver
-  scrape_interval: 5m
-  static_configs:
-  - targets:
-    - 13.127.10.65:9393
